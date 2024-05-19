@@ -1,7 +1,7 @@
 {
     "name": "nextjs-reviews",
     "private": true,
-    "script": {
+    "scripts": {
         "dev": "next dev"
     },
     "dependencies": {
